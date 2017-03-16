@@ -1,1 +1,1 @@
-include ':app', ':frame', ':framing', ':frame1', ':frame2ing', ':frame2'
+include ':app', ':frame', ':framing', ':frame1', ':frame2'
