@@ -1,4 +1,4 @@
-package com.yyx.framing.interfaces;
+package com.yyx.framing.frame1.interfaces;
 
 import android.graphics.Bitmap;
 

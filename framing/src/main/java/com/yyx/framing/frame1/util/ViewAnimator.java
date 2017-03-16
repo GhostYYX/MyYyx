@@ -1,4 +1,4 @@
-package com.yyx.framing.util;
+package com.yyx.framing.frame1.util;
 
 import android.os.Handler;
 import android.support.v4.widget.DrawerLayout;
@@ -9,13 +9,12 @@ import android.view.animation.Animation;
 import android.widget.ImageView;
 
 import com.yyx.framing.R;
-import com.yyx.framing.animation.FlipAnimation;
-import com.yyx.framing.interfaces.Resourceble;
-import com.yyx.framing.interfaces.ScreenShotable;
+import com.yyx.framing.frame1.animation.FlipAnimation;
+import com.yyx.framing.frame1.interfaces.Resourceble;
+import com.yyx.framing.frame1.interfaces.ScreenShotable;
 
 import java.util.ArrayList;
 import java.util.List;
-
 
 /**
  * Created by Konstantin on 12.01.2015.

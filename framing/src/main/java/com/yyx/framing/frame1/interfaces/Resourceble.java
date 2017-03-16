@@ -1,4 +1,4 @@
-package com.yyx.framing.interfaces;
+package com.yyx.framing.frame1.interfaces;
 
 /**
  * Created by Konstantin on 12.01.2015.

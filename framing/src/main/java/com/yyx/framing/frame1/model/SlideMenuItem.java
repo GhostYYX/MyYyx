@@ -1,6 +1,7 @@
-package com.yyx.framing.model;
+package com.yyx.framing.frame1.model;
 
-import com.yyx.framing.interfaces.Resourceble;
+
+import com.yyx.framing.frame1.interfaces.Resourceble;
 
 /**
  * Created by Konstantin on 23.12.2014.

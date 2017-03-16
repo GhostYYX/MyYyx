@@ -14,10 +14,10 @@ import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 import android.widget.LinearLayout;
 
-import com.yyx.framing.interfaces.Resourceble;
-import com.yyx.framing.interfaces.ScreenShotable;
-import com.yyx.framing.model.SlideMenuItem;
-import com.yyx.framing.util.ViewAnimator;
+import com.yyx.framing.frame1.interfaces.Resourceble;
+import com.yyx.framing.frame1.interfaces.ScreenShotable;
+import com.yyx.framing.frame1.model.SlideMenuItem;
+import com.yyx.framing.frame1.util.ViewAnimator;
 import com.yyx.myyyx.R;
 import com.yyx.myyyx.fragment.ContentFragment;
 import io.codetail.animation.SupportAnimator;

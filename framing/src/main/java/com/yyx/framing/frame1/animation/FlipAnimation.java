@@ -1,4 +1,4 @@
-package com.yyx.framing.animation;
+package com.yyx.framing.frame1.animation;
 
 import android.graphics.Camera;
 import android.graphics.Matrix;
