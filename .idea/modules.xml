@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/frame/frame.iml" filepath="$PROJECT_DIR$/frame/frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/frame1/frame1.iml" filepath="$PROJECT_DIR$/frame1/frame1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame2/frame2.iml" filepath="$PROJECT_DIR$/frame2/frame2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame2ing/frame2ing.iml" filepath="$PROJECT_DIR$/frame2ing/frame2ing.iml" />
       <module fileurl="file://$PROJECT_DIR$/framing/framing.iml" filepath="$PROJECT_DIR$/framing/framing.iml" />
     </modules>
   </component>
