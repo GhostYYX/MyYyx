@@ -4,37 +4,39 @@
               xmlns:app="http://schemas.android.com/apk/res-auto"
               android:background="#fff"
               android:orientation="vertical"
-              android:padding="20dp">
+              android:padding="20dp"
+                android:gravity="right">
 
     <com.yyx.framing.frame4.SwitchButton
         android:id="@+id/switch_button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"/>
 
     <com.yyx.framing.frame4.SwitchButton
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        app:sb_checked="true"/>
+        app:sb_checked="true"
+        android:id="@+id/switchButton" />
 
 
     <com.yyx.framing.frame4.SwitchButton
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         app:sb_show_indicator="false"
         app:sb_checked="true"/>
 
     <com.yyx.framing.frame4.SwitchButton
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         app:sb_checked_color="#fdc951"
         app:sb_checked="true"/>
 
     <com.yyx.framing.frame4.SwitchButton
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         app:sb_button_color="#db99c7"
@@ -46,7 +48,7 @@
         />
 
     <com.yyx.framing.frame4.SwitchButton
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         app:sb_enable_effect="false"/>
