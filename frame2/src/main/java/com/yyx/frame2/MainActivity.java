@@ -2,7 +2,6 @@ package com.yyx.frame2;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 
 import com.yyx.framing.frame4.SwitchButton;
 
