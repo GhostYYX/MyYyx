@@ -35,6 +35,9 @@
         <activity
             android:name=".buttonstyle.Sample5Activity"
             android:theme="@android:style/Theme.Holo.Light"/>
+
+        <activity
+            android:name=".example.MainActivity" />
     </application>
 
 </manifest>

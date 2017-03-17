@@ -30,6 +30,7 @@
         app:sb_checked="true"/>
 
     <com.yyx.framing.frame4.SwitchButton
+        android:id="@+id/switchButton2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"

@@ -37,6 +37,18 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile 'com.android.support:support-annotations:22.2.0'
+
+    //下面
+    compile 'org.apache.commons:commons-lang3:3.3.2'
+    compile 'joda-time:joda-time:2.3'
+    // Android test dependencies
+    androidTestCompile 'com.android.support.test:runner:0.2'
+    androidTestCompile 'com.android.support.test:rules:0.2'
+    androidTestCompile 'org.mockito:mockito-core:1.10.19'
+    androidTestCompile 'com.google.dexmaker:dexmaker:1.2'
+    androidTestCompile 'com.google.dexmaker:dexmaker-mockito:1.2'
+    // Unit test dependencies
+    testCompile 'org.mockito:mockito-core:1.10.19'
 }
 
 task androidJavadocs(type: Javadoc) {
