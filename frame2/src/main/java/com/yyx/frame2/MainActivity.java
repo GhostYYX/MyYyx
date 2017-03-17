@@ -17,6 +17,7 @@ public class MainActivity extends Activity {
 		SwitchButton switchButton1 = (SwitchButton) findViewById(R.id.switchButton);
 		SwitchButton switchButton2 = (SwitchButton) findViewById(R.id.switchButton1);
 		SwitchButton switchButton3 = (SwitchButton) findViewById(R.id.switchButton2);
+		SwitchButton switchButton4 = (SwitchButton) findViewById(R.id.switchButton3);
 
 		switchButton.setChecked(true);
 		switchButton.isChecked();
@@ -55,6 +56,15 @@ public class MainActivity extends Activity {
 				//TODO do your job
 				if(isChecked==true){
 					startActivity(new Intent(MainActivity.this, com.yyx.frame2.example.MainActivity.class));
+				}
+			}
+		});
+		switchButton4.setOnCheckedChangeListener(new SwitchButton.OnCheckedChangeListener() {
+			@Override
+			public void onCheckedChanged(SwitchButton view, boolean isChecked) {
+				//TODO do your job
+				if(isChecked==true){
+					startActivity(new Intent(MainActivity.this, com.yyx.frame2.discrollview.MainActivity.class));
 				}
 			}
 		});
